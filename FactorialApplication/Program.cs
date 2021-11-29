@@ -19,7 +19,7 @@ namespace FactorialApplication
 
                         Console.WriteLine("Can not find the factorial of a negative number");
 
-                    else if (number <= 1) // if "if" condition fails then else if runs
+                    else if (number <= 1) 
 
                         Console.WriteLine("Factorial of number " + number + " is " + factorial);
 
