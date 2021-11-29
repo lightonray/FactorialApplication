@@ -9,9 +9,9 @@ namespace FactorialApplication
             {
                 try
                 {
-                    int number, factorial = 1; // declaring variables
+                    int number, factorial = 1; 
                     Console.WriteLine("Please enter a number: ");
-                    number = Convert.ToInt32(Console.ReadLine()); // converting to int32
+                    number = Convert.ToInt32(Console.ReadLine()); 
 
 
 
